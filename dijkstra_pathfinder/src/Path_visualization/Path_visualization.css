@@ -1,0 +1,13 @@
+.grid{
+  padding: inherit;
+  margin:50px 0 0;
+  background-color: dimgrey;
+
+}
+.button{
+  background-color: azure;
+  box-shadow: cadetblue;
+}
+.top{
+  background-color: steelblue;
+}
