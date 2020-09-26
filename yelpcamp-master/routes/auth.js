@@ -51,7 +51,7 @@ router.post("/login",passport.authenticate("local",{
     successFlash:"Successfully Logged in",
     failureFlash:"Incorrect username or password"
     }),function(req, res) {
-        res.cookie('name','fuck');
+        res.cookie('name','xyz');
 })
 
 //logout
